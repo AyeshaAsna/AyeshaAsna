@@ -1,16 +1,79 @@
-## Hi there 👋
+👩‍💻 Hi, I'm Ayesha Asna
 
-<!--
-**AyeshaAsna/AyeshaAsna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Graduate | 📊 Data Enthusiast | 💡 Lifelong Learner
 
-Here are some ideas to get you started:
+I’m passionate about turning raw data into meaningful insights. I enjoy working on real-world problems using data analysis, machine learning, and visualization techniques. My goal is to continuously learn, build impactful projects, and grow as a data professional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+🎓 Graduate in Data Science
+
+📈 Interested in Machine Learning & Analytics
+
+🧠 Strong foundation in Statistics & Mathematics
+
+💻 Love working with Python and data-driven projects
+
+🌱 Currently improving my skills in advanced ML & AI
+
+🛠️ Technical Skills
+👩‍💻 Programming
+
+Python
+
+SQL
+
+C (basic understanding)
+
+📊 Data Analysis & Visualization
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Excel
+
+🤖 Machine Learning
+
+Scikit-learn
+
+Supervised & Unsupervised Learning
+
+Regression & Classification
+
+Model Evaluation
+
+🗄️ Databases
+
+MySQL
+
+📦 Tools & Platforms
+
+Jupyter Notebook
+
+Google Colab
+
+Git & GitHub
+
+VS Code
+
+📌 Projects
+
+🔹 Data Cleaning & Exploratory Data Analysis
+🔹 Machine Learning Prediction Models
+🔹 Data Visualization Dashboards
+🔹 Internship Projects (Oasis Infobyte – Data Science Fellowship)
+
+📫 Connect With Me
+
+💼 LinkedIn: (Add your LinkedIn link here)
+
+📧 Email: (Add your email here)
+
+🌐 GitHub: https://github.com/AyeshaAsna
+
+⭐ “Without data, you're just another person with an opinion.”
