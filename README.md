@@ -70,9 +70,9 @@ VS Code
 
 📫 Connect With Me
 
-💼 LinkedIn: (Add your LinkedIn link here)
+💼 LinkedIn: https://www.linkedin.com/in/ayesha-asna-136032326/
 
-📧 Email: (Add your email here)
+📧 Email: ayesha10asna@gmail.com
 
 🌐 GitHub: https://github.com/AyeshaAsna
 
