@@ -1,12 +1,12 @@
 👩‍💻 Hi, I'm Ayesha Asna
 
-🎓 Data Science Graduate | 📊 Data Enthusiast | 💡 Lifelong Learner
+🎓Artificial Intelligence and Data Science Graduate | 📊 Data Enthusiast | 💡 Lifelong Learner
 
 I’m passionate about turning raw data into meaningful insights. I enjoy working on real-world problems using data analysis, machine learning, and visualization techniques. My goal is to continuously learn, build impactful projects, and grow as a data professional.
 
 🚀 About Me
 
-🎓 Graduate in Data Science
+🎓 Graduate in Artificial Intelligence and Data Science
 
 📈 Interested in Machine Learning & Analytics
 
